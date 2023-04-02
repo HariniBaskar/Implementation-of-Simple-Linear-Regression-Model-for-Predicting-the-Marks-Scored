@@ -81,7 +81,7 @@ print("RMSE = ",rmse)
 ```
 
 ## Output:
-## Reading the data set
+## Reading the data set (df.head() & df.tail())
 ![ml1](https://user-images.githubusercontent.com/93427253/228925523-429137f8-012f-43ef-a5cf-ccc559a484d4.png)
 ![ml2](https://user-images.githubusercontent.com/93427253/228926161-485f2c42-715d-453b-a730-e6434fcfc8db.png)
 
